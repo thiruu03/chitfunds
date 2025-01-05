@@ -1,0 +1,9 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  image: assets/images/blyn-logo.png # Replace with your uploaded image path
+
+  android_12:
+    image: assets/images/blyn-logo.png
